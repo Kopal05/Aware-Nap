@@ -31,7 +31,7 @@ It checks 20 consecutive frames and if the Eye Aspect ratio is less than 0.25, A
 
 #### Relationship
 
-<img src="">
+<img src="https://github.com/Kopal05/Aware-Nap/blob/main/assets/eye2.png">
 
 #### Summing up
 
